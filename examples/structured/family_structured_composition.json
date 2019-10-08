@@ -1,0 +1,771 @@
+{
+    "ctx/language": "en",
+    "ctx/territory": "SI",
+    "ctx/composer_name": "Silvia Blake",
+    "ctx/id_namespace": "HOSPITAL-NS",
+    "ctx/id_scheme": "HOSPITAL-NS",
+    "ctx/participation_name": "Dr. Marcus Johnson",
+    "ctx/participation_function": "requester",
+    "ctx/participation_mode": "face-to-face communication",
+    "ctx/participation_id": "199",
+    "ctx/participation_name:1": "Lara Markham",
+    "ctx/participation_function:1": "performer",
+    "ctx/participation_id:1": "198",
+    "ctx/health_care_facility|name": "Hospital",
+    "ctx/health_care_facility|id": "9091",
+    "family_rev": {
+        "id": [
+            {
+                "|id": "200199a8-9e68-48b9-9601-9c796de59b68",
+                "|issuer": "Issuer",
+                "|assigner": "Assigner",
+                "|type": "Prescription"
+            }
+        ],
+        "proband": [
+            {
+                "id": [
+                    {
+                        "|id": "0680b0c6-469e-4b4b-b1e1-b5339d529385",
+                        "|issuer": "Issuer",
+                        "|assigner": "Assigner",
+                        "|type": "Prescription"
+                    }
+                ],
+                "subject": [
+                    "subject 36"
+                ],
+                "phenotypic_feature": [
+                    {
+                        "description": [
+                            "description 31"
+                        ],
+                        "type": [
+                            {
+                                "|code": "N.95",
+                                "|value": "N.95 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "negated": [
+                            false
+                        ],
+                        "severity": [
+                            {
+                                "|code": "T.49",
+                                "|value": "T.49 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "modifier": [
+                            {
+                                "|code": "F.36",
+                                "|value": "F.36 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "onset": [
+                            {
+                                "|code": "I.16",
+                                "|value": "I.16 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "evidence": [
+                            {
+                                "evidence_code": [
+                                    {
+                                        "|code": "F.67",
+                                        "|value": "F.67 description",
+                                        "|terminology": "external_terminology"
+                                    }
+                                ],
+                                "external_reference": [
+                                    {
+                                        "id": [
+                                            {
+                                                "|id": "7c5986c5-93d1-48bc-bc5d-34efb3735403",
+                                                "|issuer": "Issuer",
+                                                "|assigner": "Assigner",
+                                                "|type": "Prescription"
+                                            }
+                                        ],
+                                        "description": [
+                                            "description 97"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "biosample": [
+                    {
+                        "id": [
+                            {
+                                "|id": "a5d42c8c-836f-43a0-b2d9-fd0e04b82fbd",
+                                "|issuer": "Issuer",
+                                "|assigner": "Assigner",
+                                "|type": "Prescription"
+                            }
+                        ],
+                        "individual_id": [
+                            {
+                                "|id": "d14f4e57-88d8-4799-97c2-fea082ca39a5",
+                                "|issuer": "Issuer",
+                                "|assigner": "Assigner",
+                                "|type": "Prescription"
+                            }
+                        ],
+                        "description": [
+                            "description 59"
+                        ],
+                        "sampled_tissue": [
+                            {
+                                "|code": "C.97",
+                                "|value": "C.97 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "taxonomy": [
+                            {
+                                "|code": "I.44",
+                                "|value": "I.44 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "histological_diagnosis": [
+                            {
+                                "|code": "B.44",
+                                "|value": "B.44 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "tumor_progression": [
+                            {
+                                "|code": "A.82",
+                                "|value": "A.82 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "tumor_grade": [
+                            {
+                                "|code": "N.95",
+                                "|value": "N.95 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "diagnostic_markers": [
+                            {
+                                "|code": "F.98",
+                                "|value": "F.98 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "procedure": [
+                            {
+                                "code": [
+                                    {
+                                        "|code": "C.23",
+                                        "|value": "C.23 description",
+                                        "|terminology": "external_terminology"
+                                    }
+                                ],
+                                "body_site": [
+                                    {
+                                        "|code": "B.1",
+                                        "|value": "B.1 description",
+                                        "|terminology": "external_terminology"
+                                    }
+                                ]
+                            }
+                        ],
+                        "is_control_sample": [
+                            false
+                        ]
+                    }
+                ],
+                "gene": [
+                    {
+                        "gene_symbol": [
+                            {
+                                "|code": "F.63",
+                                "|value": "F.63 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ]
+                    }
+                ],
+                "variant": [
+                    {
+                        "hgvsallele": [
+                            {
+                                "id": [
+                                    {
+                                        "|id": "7eb73aa0-d2f3-4b75-9e2f-354832c4fc23",
+                                        "|issuer": "Issuer",
+                                        "|assigner": "Assigner",
+                                        "|type": "Prescription"
+                                    }
+                                ],
+                                "hgvs": [
+                                    "hgvs 92"
+                                ]
+                            }
+                        ],
+                        "iscnallele": [
+                            {
+                                "id": [
+                                    {
+                                        "|id": "9182e6f7-248a-40f8-a3ed-21f55430bbcb",
+                                        "|issuer": "Issuer",
+                                        "|assigner": "Assigner",
+                                        "|type": "Prescription"
+                                    }
+                                ],
+                                "iscn": [
+                                    "iscn 20"
+                                ]
+                            }
+                        ],
+                        "spdiallele": [
+                            {
+                                "id": [
+                                    {
+                                        "|id": "752a8a2c-b116-41fb-9a9e-4d2c95170dd8",
+                                        "|issuer": "Issuer",
+                                        "|assigner": "Assigner",
+                                        "|type": "Prescription"
+                                    }
+                                ],
+                                "seq_id": [
+                                    {
+                                        "|id": "6f220863-85ae-42fc-ba0d-6d0961fb59fb",
+                                        "|issuer": "Issuer",
+                                        "|assigner": "Assigner",
+                                        "|type": "Prescription"
+                                    }
+                                ],
+                                "position": [
+                                    9
+                                ],
+                                "deleted_sequence": [
+                                    "deleted_sequence 64"
+                                ],
+                                "inserted_sequence": [
+                                    "inserted_sequence 51"
+                                ]
+                            }
+                        ],
+                        "vcfallele": [
+                            {
+                                "genome_assembly": [
+                                    "genome_assembly 87"
+                                ],
+                                "id": [
+                                    {
+                                        "|id": "9345debb-5b75-4f53-9b65-3a4f9aa0d6b2",
+                                        "|issuer": "Issuer",
+                                        "|assigner": "Assigner",
+                                        "|type": "Prescription"
+                                    }
+                                ],
+                                "chr": [
+                                    "chr 83"
+                                ],
+                                "pos": [
+                                    8
+                                ],
+                                "re": [
+                                    "re 67"
+                                ],
+                                "alt": [
+                                    "alt 28"
+                                ],
+                                "info": [
+                                    "info 32"
+                                ]
+                            }
+                        ],
+                        "zygosity": [
+                            {
+                                "|code": "C.24",
+                                "|value": "C.24 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ]
+                    }
+                ],
+                "disease": [
+                    {
+                        "term": [
+                            {
+                                "|code": "A.1",
+                                "|value": "A.1 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "tumor_stage": [
+                            {
+                                "|code": "T.5",
+                                "|value": "T.5 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "relative": [
+            {
+                "id": [
+                    {
+                        "|id": "90acc721-8eae-425e-b22c-8e534d8234b0",
+                        "|issuer": "Issuer",
+                        "|assigner": "Assigner",
+                        "|type": "Prescription"
+                    }
+                ],
+                "subject": [
+                    "subject 98"
+                ],
+                "phenotypic_feature": [
+                    {
+                        "description": [
+                            "description 66"
+                        ],
+                        "type": [
+                            {
+                                "|code": "B.34",
+                                "|value": "B.34 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "negated": [
+                            false
+                        ],
+                        "severity": [
+                            {
+                                "|code": "V.12",
+                                "|value": "V.12 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "modifier": [
+                            {
+                                "|code": "C.52",
+                                "|value": "C.52 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "onset": [
+                            {
+                                "|code": "C.53",
+                                "|value": "C.53 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "evidence": [
+                            {
+                                "evidence_code": [
+                                    {
+                                        "|code": "I.20",
+                                        "|value": "I.20 description",
+                                        "|terminology": "external_terminology"
+                                    }
+                                ],
+                                "external_reference": [
+                                    {
+                                        "id": [
+                                            {
+                                                "|id": "70cc6e5f-ce1f-4892-bb62-791bc7eb1ea2",
+                                                "|issuer": "Issuer",
+                                                "|assigner": "Assigner",
+                                                "|type": "Prescription"
+                                            }
+                                        ],
+                                        "description": [
+                                            "description 95"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "biosample": [
+                    {
+                        "id": [
+                            {
+                                "|id": "c1958384-6346-462a-a3cf-2da6c3fa20ac",
+                                "|issuer": "Issuer",
+                                "|assigner": "Assigner",
+                                "|type": "Prescription"
+                            }
+                        ],
+                        "individual_id": [
+                            {
+                                "|id": "63df9d3e-2441-4a08-a54c-029833cff415",
+                                "|issuer": "Issuer",
+                                "|assigner": "Assigner",
+                                "|type": "Prescription"
+                            }
+                        ],
+                        "description": [
+                            "description 97"
+                        ],
+                        "sampled_tissue": [
+                            {
+                                "|code": "D.53",
+                                "|value": "D.53 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "taxonomy": [
+                            {
+                                "|code": "D.30",
+                                "|value": "D.30 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "histological_diagnosis": [
+                            {
+                                "|code": "D.49",
+                                "|value": "D.49 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "tumor_progression": [
+                            {
+                                "|code": "A.62",
+                                "|value": "A.62 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "tumor_grade": [
+                            {
+                                "|code": "F.64",
+                                "|value": "F.64 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "diagnostic_markers": [
+                            {
+                                "|code": "E.52",
+                                "|value": "E.52 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "procedure": [
+                            {
+                                "code": [
+                                    {
+                                        "|code": "F.38",
+                                        "|value": "F.38 description",
+                                        "|terminology": "external_terminology"
+                                    }
+                                ],
+                                "body_site": [
+                                    {
+                                        "|code": "E.92",
+                                        "|value": "E.92 description",
+                                        "|terminology": "external_terminology"
+                                    }
+                                ]
+                            }
+                        ],
+                        "is_control_sample": [
+                            false
+                        ]
+                    }
+                ],
+                "gene": [
+                    {
+                        "gene_symbol": [
+                            {
+                                "|code": "V.7",
+                                "|value": "V.7 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ]
+                    }
+                ],
+                "variant": [
+                    {
+                        "hgvsallele": [
+                            {
+                                "id": [
+                                    {
+                                        "|id": "9f19497e-ebdf-4085-831a-db0c20e5ca10",
+                                        "|issuer": "Issuer",
+                                        "|assigner": "Assigner",
+                                        "|type": "Prescription"
+                                    }
+                                ],
+                                "hgvs": [
+                                    "hgvs 11"
+                                ]
+                            }
+                        ],
+                        "iscnallele": [
+                            {
+                                "id": [
+                                    {
+                                        "|id": "28beebfa-c627-4b85-a50a-86204fb90eaf",
+                                        "|issuer": "Issuer",
+                                        "|assigner": "Assigner",
+                                        "|type": "Prescription"
+                                    }
+                                ],
+                                "iscn": [
+                                    "iscn 10"
+                                ]
+                            }
+                        ],
+                        "spdiallele": [
+                            {
+                                "id": [
+                                    {
+                                        "|id": "87bd12e5-0bf6-4655-8291-e1dceca48fbb",
+                                        "|issuer": "Issuer",
+                                        "|assigner": "Assigner",
+                                        "|type": "Prescription"
+                                    }
+                                ],
+                                "seq_id": [
+                                    {
+                                        "|id": "1b9c094b-3123-4e97-958a-4db60a2bc65f",
+                                        "|issuer": "Issuer",
+                                        "|assigner": "Assigner",
+                                        "|type": "Prescription"
+                                    }
+                                ],
+                                "position": [
+                                    1
+                                ],
+                                "deleted_sequence": [
+                                    "deleted_sequence 53"
+                                ],
+                                "inserted_sequence": [
+                                    "inserted_sequence 16"
+                                ]
+                            }
+                        ],
+                        "vcfallele": [
+                            {
+                                "genome_assembly": [
+                                    "genome_assembly 12"
+                                ],
+                                "id": [
+                                    {
+                                        "|id": "cbfe2b78-597f-40c6-b2a5-61f1f7be6840",
+                                        "|issuer": "Issuer",
+                                        "|assigner": "Assigner",
+                                        "|type": "Prescription"
+                                    }
+                                ],
+                                "chr": [
+                                    "chr 69"
+                                ],
+                                "pos": [
+                                    2
+                                ],
+                                "re": [
+                                    "re 95"
+                                ],
+                                "alt": [
+                                    "alt 66"
+                                ],
+                                "info": [
+                                    "info 81"
+                                ]
+                            }
+                        ],
+                        "zygosity": [
+                            {
+                                "|code": "N.41",
+                                "|value": "N.41 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ]
+                    }
+                ],
+                "disease": [
+                    {
+                        "term": [
+                            {
+                                "|code": "I.81",
+                                "|value": "I.81 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ],
+                        "tumor_stage": [
+                            {
+                                "|code": "F.10",
+                                "|value": "F.10 description",
+                                "|terminology": "external_terminology"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "pedigree": [
+            {
+                "person": [
+                    {
+                        "family_id": [
+                            {
+                                "|id": "3bede5e7-0f31-48e0-9fdd-7815e3d26b9a",
+                                "|issuer": "Issuer",
+                                "|assigner": "Assigner",
+                                "|type": "Prescription"
+                            }
+                        ],
+                        "individual_id": [
+                            {
+                                "|id": "066364d9-c3c6-45a8-b459-539a68645eb8",
+                                "|issuer": "Issuer",
+                                "|assigner": "Assigner",
+                                "|type": "Prescription"
+                            }
+                        ],
+                        "paternal_id": [
+                            {
+                                "|id": "c09eb35e-ba01-41b0-a9bb-91ecc524fdac",
+                                "|issuer": "Issuer",
+                                "|assigner": "Assigner",
+                                "|type": "Prescription"
+                            }
+                        ],
+                        "maternal_id": [
+                            {
+                                "|id": "704c1a00-ca28-42c6-8aaa-202afd6934d2",
+                                "|issuer": "Issuer",
+                                "|assigner": "Assigner",
+                                "|type": "Prescription"
+                            }
+                        ],
+                        "sex": [
+                            {
+                                "|code": "at0009",
+                                "|value": "OTHER_SEX",
+                                "|ordinal": 0
+                            }
+                        ],
+                        "affected_status": [
+                            {
+                                "|code": "at0011"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "htsfile": [
+            {
+                "uri": [
+                    "http://example.com/path/resource"
+                ],
+                "description": [
+                    "description 98"
+                ],
+                "hts_format": [
+                    {
+                        "|code": "at0010"
+                    }
+                ],
+                "genome_assembly": [
+                    "genome_assembly 82"
+                ],
+                "individual_identifier": [
+                    {
+                        "|id": "33e64868-d1b2-43b1-bc01-0555c8b3e2bc",
+                        "|issuer": "Issuer",
+                        "|assigner": "Assigner",
+                        "|type": "Prescription"
+                    }
+                ],
+                "sample_identifier": [
+                    {
+                        "|id": "f2991174-ca46-49b4-bcf6-c1c300d0438f",
+                        "|issuer": "Issuer",
+                        "|assigner": "Assigner",
+                        "|type": "Prescription"
+                    }
+                ]
+            }
+        ],
+        "metadata": [
+            {
+                "created": [
+                    "2019-10-07T14:42:21.231Z"
+                ],
+                "created_by": [
+                    "created by 45"
+                ],
+                "submitted_by": [
+                    "submitted by 89"
+                ],
+                "resource": [
+                    {
+                        "id": [
+                            {
+                                "|id": "582deae8-fccf-4b95-8f00-b80a21090e05",
+                                "|issuer": "Issuer",
+                                "|assigner": "Assigner",
+                                "|type": "Prescription"
+                            }
+                        ],
+                        "name": [
+                            "name 49"
+                        ],
+                        "namespace_prefix": [
+                            "namespace_prefix 82"
+                        ],
+                        "url": [
+                            "http://example.com/path/resource"
+                        ],
+                        "version": [
+                            "version 21"
+                        ],
+                        "iri-prefix": [
+                            "iri-prefix 30"
+                        ]
+                    }
+                ],
+                "update": [
+                    {
+                        "timestamp": [
+                            "2019-10-07T14:42:21.231Z"
+                        ],
+                        "updated_by": [
+                            "updated_by 17"
+                        ],
+                        "comment": [
+                            "comment 45"
+                        ]
+                    }
+                ],
+                "phenopacket_schema_version": [
+                    "phenopacket_schema_version 84"
+                ],
+                "external_reference": [
+                    {
+                        "id": [
+                            {
+                                "|id": "ad603137-faf1-4809-92ee-deb96719d452",
+                                "|issuer": "Issuer",
+                                "|assigner": "Assigner",
+                                "|type": "Prescription"
+                            }
+                        ],
+                        "description": [
+                            "description 46"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
